@@ -11,7 +11,6 @@ class AnalyzePDF:
     def get_loan_decision(self):
         for page in self.result.pages:
             for line in page.lines:
-                print(line.content)
                 if "Decision:" in line.content:
                     return line.content.split(":")[1]
 
