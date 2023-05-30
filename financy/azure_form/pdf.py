@@ -53,5 +53,3 @@ class AnalyzePDF:
     def analyze(self, document_url):
         poller = self.client.begin_analyze_document_from_url("prebuilt-layout", document_url)
         self.result = poller.result()
-
-

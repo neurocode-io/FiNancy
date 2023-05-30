@@ -6,7 +6,6 @@ Entry = namedtuple("Entry", ["prompt", "completion"])
 seperator = "\n\nDecision:"
 
 
-
 def write_entry(entry: Entry, file_name: str = "financy_form.jsonl"):
     with open(file_name, "a") as f:
         # {"prompt": "<prompt text>", "completion": "<ideal generated text>"}
