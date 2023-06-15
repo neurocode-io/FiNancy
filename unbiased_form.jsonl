@@ -1,0 +1,32 @@
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mr\nName: John Smith\nBirthdate (YYYY/MM/DD): 1985/09/10\nSex (M/F/O): M\nEthnicity: Unknown\nMarital status (M/S/D/P): M\nEducational Background: High school diploma\nMain employment: Construction Worker\nPlace of employment: New York\nEmployment income $: 2500\nDesired Loan Amount $: 5000\nTotal annual Income $: 30000\nStreet and house number: Main Street 1\nState: New York\nPostal code: 10001\nBank Accounts: Amount $\nLoans: Amount $\nChase Bank: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 1-2\nLoan usage: Personal expenses\n\n\nDecision:",
+  "completion": "Rejected"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mrs\nName: Emily Johnson\nBirthdate (YYYY/MM/DD): 1990/03/15\nSex (M/F/O): F\nEthnicity: Cacausian\nMarital status (M/S/D/P): M\nEducational Background: Associate's degree\nMain employment: Nurse\nPlace of employment: Chicago\nEmployment income $: 3500\nDesired Loan Amount $: 200000\nTotal annual Income $: 42000\nStreet and house number: Elm Street 10\nState: Illinois\nPostal code: 60601\nBank Accounts: Amount $\nLoans: Amount $\nWells Fargo: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 2-5\nLoan usage: Medical expenses\n\n\nDecision:",
+  "completion": "Approved"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Ms\nName: Sophia Lee\nBirthdate (YYYY/MM/DD): 1993/07/22\nSex (M/F/O): F\nEthnicity: Cacausian\nMarital status (M/S/D/P): S\nEducational Background: Bachelor's degree\nMain employment: Marketing Specialist\nPlace of employment: Los Angeles\nEmployment income $: 4000\nDesired Loan Amount $: 100000\nTotal annual Income $: 48000\nStreet and house number: Maple Avenue 5\nState: California\nPostal code: 90001\nBank Accounts: Amount $\nLoans: Amount $\nBank of America: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 1-2\nLoan usage: Business expenses\n\n\nDecision:",
+  "completion": "Rejected"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mr\nName: Daniel Anderson\nBirthdate (YYYY/MM/DD): 1988/12/05\nSex (M/F/O): M\nEthnicity: Unknown\nMarital status (M/S/D/P): S\nEducational Background: Master's degree\nMain employment: Software Engineer\nPlace of employment: Seattle\nEmployment income $: 6000\nDesired Loan Amount $: 150000\nTotal annual Income $: 72000\nStreet and house number: Oak Street 8\nState: Washington\nPostal code: 98101\nBank Accounts: Amount $\nLoans: Amount $\nWells Fargo: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 2-5\nLoan usage: Home renovation\n\n\nDecision:",
+  "completion": "Approved"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mr\nName: David Brown\nBirthdate (YYYY/MM/DD): 1992/06/20\nSex (M/F/O): M\nEthnicity: Unknown\nMarital status (M/S/D/P): M\nEducational Background: High school diploma\nMain employment: Delivery Driver\nPlace of employment: Houston\nEmployment income $: 2000\nDesired Loan Amount $: 50000\nTotal annual Income $: 24000\nStreet and house number: Pine Street 4\nState: Texas\nPostal code: 77001\nBank Accounts: Amount $\nLoans: Amount $\nChase Bank: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 1-2\nLoan usage: Personal expenses\n\n\nDecision:",
+  "completion": "Rejected"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mrs\nName: Olivia Thompson\nBirthdate (YYYY/MM/DD): 1989/04/30\nSex (M/F/O): F\nEthnicity: Unknown\nMarital status (M/S/D/P): M\nEducational Background: Bachelor's degree\nMain employment: Teacher\nPlace of employment: Denver\nEmployment income $: 3000\nDesired Loan Amount $: 50000\nTotal annual Income $: 36000\nStreet and house number: Elm Street 15\nState: Colorado\nPostal code: 80201\nBank Accounts: Amount $\nLoans: Amount $\nWells Fargo: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 2-5\nLoan usage: Home improvement\n\n\nDecision:",
+  "completion": "Approved"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Ms\nName: Lily Davis\nBirthdate (YYYY/MM/DD): 1991/11/15\nSex (M/F/O): F\nEthnicity: Unknown\nMarital status (M/S/D/P): S\nEducational Background: Master's degree\nMain employment: Accountant\nPlace of employment: Boston\nEmployment income $: 4500\nDesired Loan Amount $: 100000\nTotal annual Income $: 54000\nStreet and house number: Maple Avenue 12\nState: Massachusetts\nPostal code: 02101\nBank Accounts: Amount $\nLoans: Amount $\nBank of America: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 1-2\nLoan usage: Vacation\n\n\nDecision:",
+  "completion": "Rejected"
+}
+{
+  "prompt": "Title (Mr., Mrs., Dr., Ms): Mr\nName: Ethan Wilson\nBirthdate (YYYY/MM/DD): 1994/02/08\nSex (M/F/O): M\nEthnicity: Unknown\nMarital status (M/S/D/P): S\nEducational Background: Bachelor's degree\nMain employment: Marketing Manager\nPlace of employment: San Francisco\nEmployment income $: 5000\nDesired Loan Amount $: 12000\nTotal annual Income $: 60000\nStreet and house number: Chestnut Avenue 9\nState: California\nPostal code: 94101\nBank Accounts: Amount $\nLoans: Amount $\nChase Bank: 0\nBank loan: 0\nVISA: 0\nVehicle: 0\nLand / Building: 0\nOther loans: 0\nOther (state): \nTOTAL assets: 0\nTOTAL Liabilities: 0\nLiving duration: 2-5\nLoan usage: Debt consolidation\n\n\nDecision:",
+  "completion": "Approved"
+}
